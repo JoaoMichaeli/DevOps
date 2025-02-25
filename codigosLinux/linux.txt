@@ -1,8 +1,0 @@
-Pssw: OracleLinux@8
-Uss: Operacoes : Operacao
-
-su - (Acessar a conta root)
-yum (=winget)
-yum update kernel* (Atualizar o Os)
-ls (visualizar todas pastas visiveis)
-touch <nomeArq>.<format> (criar um arqv)
