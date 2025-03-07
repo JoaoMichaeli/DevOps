@@ -3,3 +3,12 @@ PaaS - Plataform as a Service - Construir
 IaaS - Infrastructure as a Service - Migrar
 
 Lift Shift
+
+Porque usar cloud:
+	Grandes empresas como Microsoft, Oracle, Amazon e Google já possuem datacenters no Brasil para cumprir a legislação local, atender à demanda governamental e reduzir a latência.
+
+	Empresas de todos os tamanhos estão migrando para a nuvem, e essa tendência está sendo cada vez mais adotada por organizações em todo o mundo.
+
+	Aumento da flexibilidade e redução de custos são fatores atraentes para a adoção da nuvem.
+
+	A computação em nuvem não é apenas uma novidade tecnológica, mas um novo modelo de negócio que está se tornando cada vez mais difundido.
