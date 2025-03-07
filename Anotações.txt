@@ -1,0 +1,5 @@
+SaaS - Software as a Service - Consumir
+PaaS - Plataform as a Service - Construir
+IaaS - Infrastructure as a Service - Migrar
+
+Lift Shift
