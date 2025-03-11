@@ -12,3 +12,32 @@ Porque usar cloud:
 	Aumento da flexibilidade e redução de custos são fatores atraentes para a adoção da nuvem.
 
 	A computação em nuvem não é apenas uma novidade tecnológica, mas um novo modelo de negócio que está se tornando cada vez mais difundido.
+
+
+SaaS (Software as a Service) – Software como Serviço:
+
+	O que é?: SaaS refere-se a aplicativos de software que são oferecidos pela internet, onde a infraestrutura e o software são gerenciados pelo provedor do serviço.
+
+	Responsabilidade do usuário: O usuário só precisa usar o aplicativo, sem se preocupar com o gerenciamento do software ou da infraestrutura por trás dele.
+
+	Exemplo: Gmail, Dropbox, Office 365, Salesforce.
+
+
+PaaS (Platform as a Service) – Plataforma como Serviço:
+	O que é?: PaaS oferece uma plataforma que permite aos desenvolvedores criar, testar e implementar aplicações sem se preocupar com a infraestrutura subjacente (servidores, armazenamento, rede).
+
+	Responsabilidade do usuário: O usuário é responsável pela criação e gerenciamento de aplicativos, enquanto o provedor gerencia a plataforma, os servidores e a infraestrutura.
+
+	Exemplo: Heroku, Google App Engine, Microsoft Azure.
+
+IaaS (Infrastructure as a Service) – Infraestrutura como Serviço:
+	O que é?: IaaS oferece recursos de infraestrutura, como servidores virtuais, armazenamento, redes e outros recursos computacionais, sob demanda e com base no uso.
+
+	Responsabilidade do usuário: O usuário tem controle sobre o sistema operacional, aplicativos e dados, enquanto o provedor gerencia os recursos de infraestrutura.
+
+	Exemplo: Amazon Web Services (AWS), Google Compute Engine, Microsoft Azure.
+
+Resumo das diferenças:
+	SaaS: O usuário só utiliza o software, sem se preocupar com a infraestrutura ou o desenvolvimento.
+	PaaS: O usuário desenvolve, testa e gerencia aplicativos, mas a infraestrutura é gerenciada pelo provedor.
+	IaaS: O usuário gerencia a infraestrutura (servidores, redes, etc.), mas o provedor fornece os recursos necessários.
