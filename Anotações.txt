@@ -2,7 +2,7 @@ SaaS - Software as a Service - Consumir
 PaaS - Plataform as a Service - Construir
 IaaS - Infrastructure as a Service - Migrar
 
-Lift Shift
+Lift Shift - Transferência das maquinas fisicas para virtuais
 
 Porque usar cloud:
 	Grandes empresas como Microsoft, Oracle, Amazon e Google já possuem datacenters no Brasil para cumprir a legislação local, atender à demanda governamental e reduzir a latência.
