@@ -41,3 +41,89 @@ Resumo das diferenças:
 	SaaS: O usuário só utiliza o software, sem se preocupar com a infraestrutura ou o desenvolvimento.
 	PaaS: O usuário desenvolve, testa e gerencia aplicativos, mas a infraestrutura é gerenciada pelo provedor.
 	IaaS: O usuário gerencia a infraestrutura (servidores, redes, etc.), mas o provedor fornece os recursos necessários.
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+Tipos de Nuvem 
+
+	Nuvem Pública 
+
+		Infraestrutura compartilhada entre vários clientes. 
+
+		Exemplo: AWS, Google Cloud, Microsoft Azure. 
+
+		Vantagens: Redução de custos, escalabilidade e facilidade de uso. 
+
+	Nuvem Privada 
+
+		Infraestrutura dedicada a uma única organização. 
+
+		Vantagens: Maior segurança, controle e personalização. 
+
+	Nuvem Híbrida 
+
+		Combina pública e privada, otimizando flexibilidade e custo. 
+
+		Vantagens: Melhor controle, escalabilidade e eficiência. 
+
+
+
+Modelos de Serviço em Cloud 
+
+	SaaS (Software as a Service) 
+
+		Softwares acessíveis via web, sem necessidade de instalação local. 
+
+		Exemplo: Google Drive, Office 365, Salesforce. 
+
+
+	PaaS (Platform as a Service) 
+
+		Plataforma para desenvolvimento e execução de aplicações. 
+
+		Exemplo: Google App Engine, Heroku, Azure Cloud Services. 
+
+
+	IaaS (Infrastructure as a Service) 
+
+		Infraestrutura virtualizada, incluindo servidores e redes. 
+
+		Exemplo: AWS EC2, Google Cloud Compute Engine. 
+
+ 
+
+Benefícios da Cloud Computing 
+
+	Escalabilidade: Ajuste dinâmico de recursos. 
+
+	Redução de custos: Modelo OPEX em vez de CAPEX. 
+	
+	Alta disponibilidade: Redundância e continuidade dos negócios. 
+
+	Flexibilidade: Acesso remoto e facilidade de implantação. 
+
+ 
+
+CAPEX vs. OPEX 
+
+	CAPEX (Capital Expenditure): Investimento inicial em infraestrutura. 
+
+	OPEX (Operational Expenditure): Custos operacionais sob demanda. 
+
+	Empresas estão migrando para OPEX ao adotar cloud computing, reduzindo despesas fixas. 
+
+ 
+
+Quando Usar Cloud Computing? 
+
+	Necessidade de escalabilidade rápida. 
+
+	Projetos com variações sazonais de demanda. 
+
+	Empresas que querem reduzir custos com infraestrutura. 
+
+	Serviços que precisam de alta disponibilidade e redundância. 
