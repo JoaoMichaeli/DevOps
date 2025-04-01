@@ -1,0 +1,4 @@
+az group create --name <NOME> --location <LOCALIZAÇÃO | eastus, brazilsouth...>
+az group delete --name <NOME>
+az vm create --resource-group rg-vmubuntu --name vm-ubuntu --image Canonical:UbuntuServer:19_04-gen2:19.04.201908230 --size Standard_B2s --vnet-name nnet-Linux --nsg nsgsr-linux --public-ip-address pip-ubuntu --authentication-type password --admin-username <USERNAME> --admin-password
+<SENHA>
