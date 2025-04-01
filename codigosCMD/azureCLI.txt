@@ -1,4 +1,8 @@
 az group create --name <NOME> --location <LOCALIZAÇÃO | eastus, brazilsouth...>
+
 az group delete --name <NOME>
-az vm create --resource-group <NOME DO GRUPO DE RECURSO> --name <NOME DA MAQUINA> --image Canonical:UbuntuServer:19_04-gen2:19.04.201908230 --size Standard_B2s --vnet-name nnet-Linux --nsg nsgsr-linux --public-ip-address pip-ubuntu --authentication-type password --admin-username <USERNAME> --admin-password
+
+az vm create --resource-group <NOME DO GRUPO DE RECURSO> --name <NOME DA MAQUINA> --image Canonical:UbuntuServer:19_04-gen2:19.04.201908230 --size Standard_B2s --vnet-name <NOME VNET> --nsg nsgsr-linux --public-ip-address pip-ubuntu --authentication-type password --admin-username <USERNAME> --admin-password
 <SENHA>
+
+az vm create --resource-group <NOME DO GRUPO DE RECURSO> --name <NOME DA MAQUINA> --image MicrosoftWindowsServer:WindowsServer:2019-Datacenter-smalldisk:latest --size Standard_B2s --vnet-name <NOME VNET> --nsg nsgsr-linux --public-ip-address pip-windows --authentication-type password --admin-username <USERNAME> --admin-password <SENHA>
