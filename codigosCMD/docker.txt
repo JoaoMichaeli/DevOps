@@ -1,0 +1,18 @@
+docker pull (img) -> instalar a img
+docker images -> mostrar imgs instaladas
+docker container run (img) -> rodar a img em um container
+docker container run -it (img) (/bin/bash -> caminho da img) -> acessar o docker pelo terminal
+docker search ubuntu -> retorna comandos do ubuntu
+docker container run --name "nome do container" -it -e TZ=America/Sao_Paulo (img:imgVersion) /bin/bash -> cria o container com nome e time zone direto
+docker exec -it "nome do container" /bin/bash -> executa o container pelo cmd
+docker container run --name "nome do container" -e "USER"="SENHA" -d mysql/mysql-server:latest -> cria o container com uma linguagem, user e senha 
+mysql -u "user" -p -> para acessar o container com senha
+docker container stop "nome" -> para o container
+
+
+docker volume create "nome" -> cria um volume
+
+docker container stop "nome"
+docker container start "nome"
+docker container rm "nome"
+docker system prune -a -f --volumes -> apaga tudo que não está sendo usado
