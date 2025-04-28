@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 docker pull (img) -> instalar a img
 docker images -> mostrar imgs instaladas
 docker container run (img) -> rodar a img em um container
@@ -16,3 +17,10 @@ docker container stop "nome"
 docker container start "nome"
 docker container rm "nome"
 docker system prune -a -f --volumes -> apaga tudo que não está sendo usado
+=======
+docker
+
+docker pull
+docker run 
+docker build
+>>>>>>> c6f2b4cd28555770c7d78cfc75e114db2235b42f
