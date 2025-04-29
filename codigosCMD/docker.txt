@@ -18,3 +18,10 @@ docker container start "nome"
 docker container rm "nome"
 docker system prune -a -f --volumes -> apaga tudo que não está sendo usado
 
+docker network create "nome" -> criar uma vnet
+docker run -d --name "nome" --network "nome nw" -e MYSQL_ROOT_PASSWORD="senha" -e MYSQL_DATABASE="nome bd" -e MYSQL_USER="name user SQL" -e MYSQL_PASSWORD="senha SQL" mysql/mysql-server:latest
+
+docker logs --f "nome" -> retorna a log do container
+
+docker run -d --name "nome" --network "nome nw" -p " porta qlq: 8080:80" -e PMA_HOST="nome host" -e PMA_USER="nome user" -e PMA_PASSWORD="senh" phpmyadmin
+
