@@ -1,0 +1,65 @@
+
+use produtos
+
+db.eletronicos.insertMany([
+  {
+    produto: "Smartphone",
+    tipo_produto: "Celular",
+    quantidade_vendida: 100,
+    valor_venda: 599.99
+  },
+  {
+    produto: "TV LED",
+    tipo_produto: "Televisor",
+    quantidade_vendida: 50,
+    valor_venda: 799.99
+  },
+  {
+    produto: "Notebook",
+    tipo_produto: "Computador",
+    quantidade_vendida: 70,
+    valor_venda: 2500.00
+  },
+  {
+    produto: "Tablet",
+    tipo_produto: "Dispositivo Móvel",
+    quantidade_vendida: 30,
+    valor_venda: 1200.50
+  },
+  {
+    produto: "Fone Bluetooth",
+    tipo_produto: "Acessório",
+    quantidade_vendida: 200,
+    valor_venda: 199.90
+  },
+  {
+    produto: "Smartwatch",
+    tipo_produto: "Relógio Inteligente",
+    quantidade_vendida: 40,
+    valor_venda: 899.99
+  },
+  {
+    produto: "Console de Videogame",
+    tipo_produto: "Entretenimento",
+    quantidade_vendida: 35,
+    valor_venda: 3500.00
+  },
+  {
+    produto: "Caixa de Som Bluetooth",
+    tipo_produto: "Áudio",
+    quantidade_vendida: 80,
+    valor_venda: 299.99
+  },
+  {
+    produto: "Câmera Digital",
+    tipo_produto: "Fotografia",
+    quantidade_vendida: 20,
+    valor_venda: 1500.00
+  },
+  {
+    produto: "Monitor Gamer",
+    tipo_produto: "Acessório de PC",
+    quantidade_vendida: 25,
+    valor_venda: 1899.90
+  }
+])
